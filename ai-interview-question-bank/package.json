@@ -4,8 +4,8 @@
   "version": "1.0.0",
   "type": "module",
   "scripts": {
-    "dev": "vite --host 0.0.0.0",
-    "build": "tsc -b && vite build",
+    "dev": "vite --config vite.config.ts --host 0.0.0.0",
+    "build": "tsc -b && vite build --config vite.config.ts",
     "lint": "eslint . --max-warnings=0",
     "validate:data": "node scripts/validate-data.mjs",
     "import:integrated": "node scripts/import-integrated.mjs"
