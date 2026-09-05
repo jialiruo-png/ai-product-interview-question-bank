@@ -1,0 +1,1921 @@
+{
+  "version": "1.1.0",
+  "updatedAt": "2026-08-30",
+  "originalQuestionCount": 361,
+  "questions": [
+    {
+      "id": "Q-0001",
+      "title": "请完整讲清一个你主导或深度参与的 AI 项目：背景、问题、方案、结果、你的贡献",
+      "tags": {
+        "company": [
+          "通用",
+          "字节跳动",
+          "腾讯",
+          "阿里",
+          "美团",
+          "小红书",
+          "百度"
+        ],
+        "companyStyle": [
+          "简历深挖",
+          "追问 ownership",
+          "强调真实贡献"
+        ],
+        "interviewStage": [
+          "一面",
+          "二面",
+          "业务面",
+          "主管面"
+        ],
+        "frequency": "S",
+        "companySpecific": "no"
+      },
+      "similarQuestions": [
+        "请详细介绍一个你主导或深度参与的 AI 产品项目，你的核心贡献是什么？",
+        "详细介绍一个你主导过的 AI 项目，遇到的最大挑战是什么，怎么解决的？",
+        "你之前做的 AI 产品项目中，最满意的一个是什么？请简述其核心价值、用户画像和关键数据指标。",
+        "再详细讲一下你的核心项目，说明项目的核心价值和行业意义。"
+      ],
+      "sources": [
+        {
+          "document": "ai_product2_integrated.xml",
+          "reference": "母题 1"
+        }
+      ],
+      "updatedAt": "2026-08-30",
+      "mainCategory": "项目经历与个人贡献",
+      "businessCategories": [
+        "通用"
+      ],
+      "corePoints": [
+        "项目背景、角色与贡献"
+      ]
+    },
+    {
+      "id": "Q-0002",
+      "title": "你在项目里到底做了什么，哪些是你主导的，哪些不是？",
+      "tags": {
+        "company": [
+          "通用",
+          "字节跳动",
+          "美团",
+          "小红书",
+          "腾讯"
+        ],
+        "companyStyle": [
+          "拆 ownership",
+          "辨别真假主导"
+        ],
+        "interviewStage": [
+          "一面",
+          "二面",
+          "业务面"
+        ],
+        "frequency": "S",
+        "companySpecific": "no"
+      },
+      "similarQuestions": [
+        "你在其中承担了什么？哪些是你负责的？",
+        "这个项目中哪些是你做的？",
+        "你在其中承担什么角色？哪些是主导的，哪些是协助的？",
+        "你在这个公司主要负责的是 PRD 文档，还是更偏产品推进与功能落地？"
+      ],
+      "sources": [
+        {
+          "document": "ai_product2_integrated.xml",
+          "reference": "母题 2"
+        }
+      ],
+      "updatedAt": "2026-08-30",
+      "mainCategory": "项目经历与个人贡献",
+      "businessCategories": [
+        "通用"
+      ],
+      "corePoints": [
+        "项目背景、角色与贡献"
+      ]
+    },
+    {
+      "id": "Q-0003",
+      "title": "为什么当时选择这个切入点或方案，而不是别的方向？",
+      "tags": {
+        "company": [
+          "通用",
+          "字节跳动",
+          "阿里",
+          "腾讯"
+        ],
+        "companyStyle": [
+          "看判断力",
+          "看取舍逻辑"
+        ],
+        "interviewStage": [
+          "一面",
+          "二面",
+          "主管面"
+        ],
+        "frequency": "A",
+        "companySpecific": "no"
+      },
+      "similarQuestions": [
+        "为什么没有选择 workflow，而是选择 agent？",
+        "为什么要做 multi-agent？",
+        "你之前做过某个项目，当时是怎么定义核心问题的？为什么选择这个切入点？",
+        "为什么在企业知识库场景下，RAG 是更优方案，微调无法替代？"
+      ],
+      "sources": [
+        {
+          "document": "ai_product2_integrated.xml",
+          "reference": "母题 3"
+        }
+      ],
+      "updatedAt": "2026-08-30",
+      "mainCategory": "项目经历与个人贡献",
+      "businessCategories": [
+        "通用"
+      ],
+      "corePoints": [
+        "项目方案与关键取舍"
+      ]
+    },
+    {
+      "id": "Q-0004",
+      "title": "如果重新做一遍这个项目，你会怎么优化？",
+      "tags": {
+        "company": [
+          "通用",
+          "字节跳动",
+          "阿里",
+          "小红书",
+          "百度"
+        ],
+        "companyStyle": [
+          "重复盘",
+          "重反思",
+          "看成长性"
+        ],
+        "interviewStage": [
+          "二面",
+          "三面",
+          "主管面"
+        ],
+        "frequency": "A",
+        "companySpecific": "no"
+      },
+      "similarQuestions": [
+        "如果重新做一遍你实习的 AI 项目，你会在产品设计、落地流程上做哪些优化？",
+        "这个项目后续优化方向是什么？",
+        "这个项目你最满意的地方是什么？如果重新做一次，你会在哪些环节优化？",
+        "你主导的项目是否做过完整复盘？核心优化点是什么，是否有落地验证？"
+      ],
+      "sources": [
+        {
+          "document": "ai_product2_integrated.xml",
+          "reference": "母题 4"
+        }
+      ],
+      "updatedAt": "2026-08-30",
+      "mainCategory": "项目经历与个人贡献",
+      "businessCategories": [
+        "通用"
+      ],
+      "corePoints": [
+        "项目复盘与优化"
+      ]
+    },
+    {
+      "id": "Q-0005",
+      "title": "跨团队推动 AI 需求落地时，你如何协调算法、研发、业务、运营之间的冲突？",
+      "tags": {
+        "company": [
+          "通用",
+          "字节跳动",
+          "阿里",
+          "美团",
+          "小红书"
+        ],
+        "companyStyle": [
+          "看推进力",
+          "协同力",
+          "复杂组织适配"
+        ],
+        "interviewStage": [
+          "二面",
+          "三面",
+          "主管面"
+        ],
+        "frequency": "S",
+        "companySpecific": "no"
+      },
+      "similarQuestions": [
+        "AI 项目推进过程中，多方诉求冲突你如何对齐与取舍？",
+        "描述一个你协调多方资源推动项目上线的完整经历。",
+        "项目推进过程中，是否出现过与研发或运营意见不一致的情况？你是如何沟通说服并推动落地的？",
+        "和团队有分歧时，你是怎么说服对方的？"
+      ],
+      "sources": [
+        {
+          "document": "ai_product2_integrated.xml",
+          "reference": "母题 5"
+        }
+      ],
+      "updatedAt": "2026-08-30",
+      "mainCategory": "协作推进与面试通用",
+      "businessCategories": [
+        "通用"
+      ],
+      "corePoints": [
+        "跨团队协作与沟通"
+      ]
+    },
+    {
+      "id": "Q-0006",
+      "title": "资源不足、排期紧、目标冲突时，你如何做优先级取舍？",
+      "tags": {
+        "company": [
+          "通用",
+          "字节跳动",
+          "腾讯",
+          "阿里",
+          "美团"
+        ],
+        "companyStyle": [
+          "务实",
+          "强调 PM 决策力"
+        ],
+        "interviewStage": [
+          "一面",
+          "二面",
+          "业务面"
+        ],
+        "frequency": "A",
+        "companySpecific": "no"
+      },
+      "similarQuestions": [
+        "迭代过程中遇到资源不足、排期紧张的情况，你如何做需求取舍和优先级排序？",
+        "当一个产品节奏里资源不够时，你是怎么取舍的？",
+        "跨团队推动 AI 需求时，算法、研发排期全部饱和，业务方又强诉求要上线，你会采用哪些方案破局？",
+        "如果你提出的需求被研发判定短期技术难以实现，你会如何处理？"
+      ],
+      "sources": [
+        {
+          "document": "ai_product2_integrated.xml",
+          "reference": "母题 6"
+        }
+      ],
+      "updatedAt": "2026-08-30",
+      "mainCategory": "协作推进与面试通用",
+      "businessCategories": [
+        "通用"
+      ],
+      "corePoints": [
+        "优先级与资源取舍"
+      ]
+    },
+    {
+      "id": "Q-0007",
+      "title": "你如何定义一个 AI 产品或功能是否成功？",
+      "tags": {
+        "company": [
+          "通用",
+          "字节跳动",
+          "腾讯",
+          "阿里",
+          "小红书",
+          "百度"
+        ],
+        "companyStyle": [
+          "强调指标",
+          "看业务 sense"
+        ],
+        "interviewStage": [
+          "一面",
+          "二面",
+          "三面"
+        ],
+        "frequency": "S",
+        "companySpecific": "no"
+      },
+      "similarQuestions": [
+        "如何定义 AI 产品的核心 KPI 和北极星指标？和传统互联网产品指标体系有什么区别？",
+        "介绍一下你在项目中的 AI 功能成功指标是如何定义的。",
+        "如何量化 AI 产品功能的效果？",
+        "你会重点关注哪些核心数据指标，来判断一个 AI 创作产品做得好不好？"
+      ],
+      "sources": [
+        {
+          "document": "ai_product2_integrated.xml",
+          "reference": "母题 7"
+        }
+      ],
+      "updatedAt": "2026-08-30",
+      "mainCategory": "数据评测与迭代优化",
+      "businessCategories": [
+        "通用"
+      ],
+      "corePoints": [
+        "指标体系与成功定义"
+      ]
+    },
+    {
+      "id": "Q-0008",
+      "title": "你如何搭建评测体系，并保证评测科学、代表性足够？",
+      "tags": {
+        "company": [
+          "字节跳动",
+          "百度",
+          "腾讯",
+          "通用"
+        ],
+        "companyStyle": [
+          "技术产品混合",
+          "评测追问深"
+        ],
+        "interviewStage": [
+          "一面",
+          "业务面"
+        ],
+        "frequency": "S",
+        "companySpecific": "partial"
+      },
+      "similarQuestions": [
+        "测评集是如何构建的？",
+        "你是怎么设计一个评测集的？如何保证评测集的代表性？",
+        "你的评测集是怎么建立的？评测样本从哪里来？",
+        "项目是怎么测试和迭代的？评测集如何构建、运行和人工标注？",
+        "为什么要自己生成评测样本，而不是直接使用公开 benchmark？"
+      ],
+      "sources": [
+        {
+          "document": "ai_product2_integrated.xml",
+          "reference": "母题 8"
+        }
+      ],
+      "updatedAt": "2026-08-30",
+      "mainCategory": "数据评测与迭代优化",
+      "businessCategories": [
+        "通用"
+      ],
+      "corePoints": [
+        "评测体系与样本设计"
+      ]
+    },
+    {
+      "id": "Q-0009",
+      "title": "你选了哪些评测指标，为什么是这些，而不是别的？",
+      "tags": {
+        "company": [
+          "字节跳动",
+          "百度",
+          "腾讯",
+          "通用"
+        ],
+        "companyStyle": [
+          "追问指标定义",
+          "反追问合理性"
+        ],
+        "interviewStage": [
+          "一面",
+          "二面"
+        ],
+        "frequency": "A",
+        "companySpecific": "partial"
+      },
+      "similarQuestions": [
+        "agent 评测选取的指标是什么？",
+        "已经选取了评测指标 A，为什么还要选择指标 B？",
+        "评测指标是你自己定义的，还是让大模型定义的？",
+        "简历里的“指令准确率”具体是什么？怎么衡量？",
+        "技术层、业务层和体验层，每一层的核心指标是什么？"
+      ],
+      "sources": [
+        {
+          "document": "ai_product2_integrated.xml",
+          "reference": "母题 9"
+        }
+      ],
+      "updatedAt": "2026-08-30",
+      "mainCategory": "数据评测与迭代优化",
+      "businessCategories": [
+        "通用"
+      ],
+      "corePoints": [
+        "指标体系与成功定义"
+      ]
+    },
+    {
+      "id": "Q-0010",
+      "title": "离线效果不错但线上反馈一般，你如何定位问题并判断归因？",
+      "tags": {
+        "company": [
+          "通用",
+          "字节跳动",
+          "腾讯",
+          "阿里",
+          "小红书"
+        ],
+        "companyStyle": [
+          "重线上真实效果",
+          "重归因"
+        ],
+        "interviewStage": [
+          "二面",
+          "三面",
+          "主管面"
+        ],
+        "frequency": "A",
+        "companySpecific": "no"
+      },
+      "similarQuestions": [
+        "你的 AI 项目上线后离线评测指标表现良好，但线上用户负面反馈很多，你会从哪些维度定位 gap？",
+        "用户反馈“简单问题加载慢、专业问题答不准”，你会如何定位问题并制定优化方案？",
+        "如何验证 AI 回答准确率的提升来自 RAG 策略优化，而非模型本身的随机性波动？",
+        "A/B 实验关注哪些指标？如何确定是你的动作带动了指标提升？"
+      ],
+      "sources": [
+        {
+          "document": "ai_product2_integrated.xml",
+          "reference": "母题 10"
+        }
+      ],
+      "updatedAt": "2026-08-30",
+      "mainCategory": "数据评测与迭代优化",
+      "businessCategories": [
+        "通用"
+      ],
+      "corePoints": [
+        "数据分析与问题归因"
+      ]
+    },
+    {
+      "id": "Q-0011",
+      "title": "你如何收集、分类、利用 bad case，形成持续优化闭环？",
+      "tags": {
+        "company": [
+          "通用",
+          "字节跳动",
+          "腾讯",
+          "百度",
+          "小红书"
+        ],
+        "companyStyle": [
+          "实操导向",
+          "强调闭环"
+        ],
+        "interviewStage": [
+          "一面",
+          "二面"
+        ],
+        "frequency": "A",
+        "companySpecific": "no"
+      },
+      "similarQuestions": [
+        "用户负向反馈如何聚类、分级？",
+        "过往实习中搜索结果的 bad case 下降，是如何分析的？",
+        "设计一套完整的 RAG 产品迭代闭环：如何收集 bad case、如何分类、如何排期、如何验证优化效果？",
+        "你的项目里面涉及 6000 条用户回答，你是怎么做归类分析的？"
+      ],
+      "sources": [
+        {
+          "document": "ai_product2_integrated.xml",
+          "reference": "母题 11"
+        }
+      ],
+      "updatedAt": "2026-08-30",
+      "mainCategory": "数据评测与迭代优化",
+      "businessCategories": [
+        "通用"
+      ],
+      "corePoints": [
+        "Bad Case 与迭代闭环"
+      ]
+    },
+    {
+      "id": "Q-0012",
+      "title": "上线一个 AI 功能后，你会分阶段关注哪些核心数据？",
+      "tags": {
+        "company": [
+          "字节跳动",
+          "腾讯",
+          "阿里",
+          "小红书",
+          "通用"
+        ],
+        "companyStyle": [
+          "看产品运营视角",
+          "看增长与质量平衡"
+        ],
+        "interviewStage": [
+          "二面",
+          "三面"
+        ],
+        "frequency": "B",
+        "companySpecific": "no"
+      },
+      "similarQuestions": [
+        "上线一个 AI 新功能后，你会重点关注哪些核心数据？请按不同阶段拆解。",
+        "产品上线后，你会在哪些维度评估其真实效果，而不只是准确率？",
+        "内容生成质量、搜索精准度、用户采纳率、互动率、停留时长等指标应该怎么看？",
+        "如何定义和统计 AI 产品的“无效回复率”或“点踩率”？"
+      ],
+      "sources": [
+        {
+          "document": "ai_product2_integrated.xml",
+          "reference": "母题 12"
+        }
+      ],
+      "updatedAt": "2026-08-30",
+      "mainCategory": "数据评测与迭代优化",
+      "businessCategories": [
+        "通用"
+      ],
+      "corePoints": [
+        "数据监控与上线运营"
+      ]
+    },
+    {
+      "id": "Q-0013",
+      "title": "企业知识库或 RAG 产品的完整链路应该怎么设计？",
+      "tags": {
+        "company": [
+          "百度",
+          "腾讯",
+          "通用",
+          "字节跳动"
+        ],
+        "companyStyle": [
+          "重链路理解",
+          "重产品化"
+        ],
+        "interviewStage": [
+          "一面",
+          "二面",
+          "业务面"
+        ],
+        "frequency": "S",
+        "companySpecific": "partial"
+      },
+      "similarQuestions": [
+        "详细介绍上一段实习中做的企业知识库 Agent：公司为什么会有这个需求、产品解决了什么问题，以及如何接入原来的工作流程。",
+        "之前提到了 AI 搜索，能否阐述一下从 Prompt 到 Answer 给出的中间链路？",
+        "一个端到端的 AI 问答，从用户提问到流式输出，涉及哪些技术环节？",
+        "整体链路是怎样设计的？"
+      ],
+      "sources": [
+        {
+          "document": "ai_product2_integrated.xml",
+          "reference": "母题 13"
+        }
+      ],
+      "updatedAt": "2026-08-30",
+      "mainCategory": "技术原理与工程实现",
+      "businessCategories": [
+        "搜索",
+        "办公"
+      ],
+      "corePoints": [
+        "RAG / 搜索 / 知识库"
+      ]
+    },
+    {
+      "id": "Q-0014",
+      "title": "检索策略怎么设计，关键词、向量、混合检索分别适合什么场景？",
+      "tags": {
+        "company": [
+          "百度",
+          "腾讯",
+          "通用"
+        ],
+        "companyStyle": [
+          "技术理解与产品判断并重"
+        ],
+        "interviewStage": [
+          "一面",
+          "二面"
+        ],
+        "frequency": "A",
+        "companySpecific": "partial"
+      },
+      "similarQuestions": [
+        "BM25 关键词检索 + 向量检索混合模式，产品层面如何做策略设计？",
+        "什么场景优先关键词，什么场景优先向量？",
+        "Top K 等参数是如何调整的？",
+        "智能客服需要处理长文本时，你会如何选择 RAG、微调或长上下文方案？"
+      ],
+      "sources": [
+        {
+          "document": "ai_product2_integrated.xml",
+          "reference": "母题 14"
+        }
+      ],
+      "updatedAt": "2026-08-30",
+      "mainCategory": "技术原理与工程实现",
+      "businessCategories": [
+        "搜索"
+      ],
+      "corePoints": [
+        "RAG / 搜索 / 知识库"
+      ]
+    },
+    {
+      "id": "Q-0015",
+      "title": "分块、Query 优化、多轮上下文这些前置能力怎么做？",
+      "tags": {
+        "company": [
+          "百度",
+          "腾讯",
+          "通用"
+        ],
+        "companyStyle": [
+          "追问细节",
+          "重产品抽象"
+        ],
+        "interviewStage": [
+          "一面",
+          "二面"
+        ],
+        "frequency": "A",
+        "companySpecific": "partial"
+      },
+      "similarQuestions": [
+        "你如何做分块策略的产品设计？固定分块、语义分块、层级分块分别适配什么用户场景？",
+        "你如何设计 Query 优化的产品能力？Query 纠错、同义拓展、意图归一化、子问题拆解分别解决什么问题？",
+        "多轮对话知识库场景下，如何解决用户需求模糊、上下文遗忘、提问不精准的问题？",
+        "用户提问模糊、信息缺失时，产品设计是主动追问还是直接检索作答？"
+      ],
+      "sources": [
+        {
+          "document": "ai_product2_integrated.xml",
+          "reference": "母题 15"
+        }
+      ],
+      "updatedAt": "2026-08-30",
+      "mainCategory": "技术原理与工程实现",
+      "businessCategories": [
+        "搜索"
+      ],
+      "corePoints": [
+        "RAG / 搜索 / 知识库"
+      ]
+    },
+    {
+      "id": "Q-0016",
+      "title": "知识库更新、版本管理、知识过期怎么处理？",
+      "tags": {
+        "company": [
+          "百度",
+          "腾讯",
+          "通用"
+        ],
+        "companyStyle": [
+          "偏生产落地",
+          "看长期运行能力"
+        ],
+        "interviewStage": [
+          "二面",
+          "业务面"
+        ],
+        "frequency": "B",
+        "companySpecific": "partial"
+      },
+      "similarQuestions": [
+        "知识库增量更新、实时更新的产品机制怎么设计？",
+        "企业知识库持续迭代更新，你如何设计知识库版本管理、增量更新、过期知识淘汰机制？",
+        "生产环境如何解决知识库噪声、脏数据、知识过期失效问题？",
+        "如何解决企业文档更新后 AI 答案不及时迭代的问题？"
+      ],
+      "sources": [
+        {
+          "document": "ai_product2_integrated.xml",
+          "reference": "母题 16"
+        }
+      ],
+      "updatedAt": "2026-08-30",
+      "mainCategory": "技术原理与工程实现",
+      "businessCategories": [
+        "搜索",
+        "办公"
+      ],
+      "corePoints": [
+        "RAG / 搜索 / 知识库"
+      ]
+    },
+    {
+      "id": "Q-0017",
+      "title": "RAG 效果不佳、召回不足、答非所问时，你怎么逐层排查？",
+      "tags": {
+        "company": [
+          "百度",
+          "腾讯",
+          "通用",
+          "字节跳动"
+        ],
+        "companyStyle": [
+          "问题诊断",
+          "结构化分析"
+        ],
+        "interviewStage": [
+          "一面",
+          "二面"
+        ],
+        "frequency": "A",
+        "companySpecific": "no"
+      },
+      "similarQuestions": [
+        "RAG 项目上线后召回率指标不达标，你会逐层定位哪些环节问题？",
+        "检索不到相关内容时怎么办？",
+        "面对千万级文档体量的企业知识库，如何从产品层面保证检索稳定、速度可控、效果不衰减？",
+        "如何平衡 RAG 产品的效果、响应速度、成本？"
+      ],
+      "sources": [
+        {
+          "document": "ai_product2_integrated.xml",
+          "reference": "母题 17"
+        }
+      ],
+      "updatedAt": "2026-08-30",
+      "mainCategory": "技术原理与工程实现",
+      "businessCategories": [
+        "搜索"
+      ],
+      "corePoints": [
+        "RAG / 搜索 / 知识库",
+        "数据分析与问题归因"
+      ]
+    },
+    {
+      "id": "Q-0018",
+      "title": "AI 搜索或知识库如何降低幻觉、提升可信度？",
+      "tags": {
+        "company": [
+          "百度",
+          "腾讯",
+          "阿里",
+          "通用"
+        ],
+        "companyStyle": [
+          "重可靠性",
+          "重可解释性"
+        ],
+        "interviewStage": [
+          "一面",
+          "二面",
+          "业务面"
+        ],
+        "frequency": "S",
+        "companySpecific": "no"
+      },
+      "similarQuestions": [
+        "如何通过产品机制降低 RAG 幻觉？Prompt 策略、检索过滤、结果校验、引用溯源分别怎么设计？",
+        "如何解决大模型幻觉、答案不可信的问题？",
+        "若千问生成内容出现错误，你会从产品层面做哪些优化降低影响？",
+        "怎么判断模型回答的准确性，以及是否出现幻觉？"
+      ],
+      "sources": [
+        {
+          "document": "ai_product2_integrated.xml",
+          "reference": "母题 18"
+        }
+      ],
+      "updatedAt": "2026-08-30",
+      "mainCategory": "技术原理与工程实现",
+      "businessCategories": [
+        "搜索"
+      ],
+      "corePoints": [
+        "体验、可信度与幻觉治理"
+      ]
+    },
+    {
+      "id": "Q-0019",
+      "title": "答案的时效性、速度、成本三者冲突时，怎么取舍？",
+      "tags": {
+        "company": [
+          "字节跳动",
+          "腾讯",
+          "百度",
+          "通用"
+        ],
+        "companyStyle": [
+          "工程现实导向",
+          "看产品 trade-off"
+        ],
+        "interviewStage": [
+          "二面",
+          "三面"
+        ],
+        "frequency": "A",
+        "companySpecific": "no"
+      },
+      "similarQuestions": [
+        "AI 产品上线后，如何平衡效果、成本和响应速度？",
+        "怎么平衡答案质量和响应速度？",
+        "如何节约成本，降低 token 消耗？",
+        "如果模型推理成本过高导致亏损，与用户追求极致长文本输入产生冲突时，你如何处理？"
+      ],
+      "sources": [
+        {
+          "document": "ai_product2_integrated.xml",
+          "reference": "母题 19"
+        }
+      ],
+      "updatedAt": "2026-08-30",
+      "mainCategory": "技术原理与工程实现",
+      "businessCategories": [
+        "搜索"
+      ],
+      "corePoints": [
+        "性能、成本与稳定性"
+      ]
+    },
+    {
+      "id": "Q-0020",
+      "title": "为什么这个场景适合 Agent，而不是 Workflow 或普通工具？",
+      "tags": {
+        "company": [
+          "字节跳动",
+          "腾讯",
+          "阿里",
+          "通用"
+        ],
+        "companyStyle": [
+          "概念辨析",
+          "看架构判断"
+        ],
+        "interviewStage": [
+          "一面",
+          "二面"
+        ],
+        "frequency": "A",
+        "companySpecific": "partial"
+      },
+      "similarQuestions": [
+        "为什么没有选择 workflow，而是选择 agent？",
+        "如果把一个辅助工具升级为能自主工作的 Agent，你会怎么设计？",
+        "你如何理解 AI Agent？如果某产品要做 Agent，最合适的切入点是什么？",
+        "它和你之前做的语音助手、本地技能系统有什么本质不同？"
+      ],
+      "sources": [
+        {
+          "document": "ai_product2_integrated.xml",
+          "reference": "母题 20"
+        }
+      ],
+      "updatedAt": "2026-08-30",
+      "mainCategory": "技术原理与工程实现",
+      "businessCategories": [
+        "通用"
+      ],
+      "corePoints": [
+        "Agent / Workflow / 多智能体"
+      ]
+    },
+    {
+      "id": "Q-0021",
+      "title": "多 Agent 或 Agent 系统的分层、编排、协作关系怎么设计？",
+      "tags": {
+        "company": [
+          "字节跳动",
+          "腾讯",
+          "通用"
+        ],
+        "companyStyle": [
+          "技术深挖",
+          "追问架构"
+        ],
+        "interviewStage": [
+          "一面",
+          "业务面"
+        ],
+        "frequency": "A",
+        "companySpecific": "partial"
+      },
+      "similarQuestions": [
+        "这个 multi-agent 主要有哪几层？每一层的具体作用是什么？",
+        "你刚刚提到可以分为三层，每一层之间是怎么编排的？",
+        "你是怎么设计这个项目的多智能体架构体系的？",
+        "多 Agent 协作落地企业办公业务，最大落地痛点是什么？"
+      ],
+      "sources": [
+        {
+          "document": "ai_product2_integrated.xml",
+          "reference": "母题 21"
+        }
+      ],
+      "updatedAt": "2026-08-30",
+      "mainCategory": "技术原理与工程实现",
+      "businessCategories": [
+        "通用"
+      ],
+      "corePoints": [
+        "Agent / Workflow / 多智能体"
+      ]
+    },
+    {
+      "id": "Q-0022",
+      "title": "Agent 如何避免跑偏、冲突、重复执行、上下文错乱？",
+      "tags": {
+        "company": [
+          "字节跳动",
+          "腾讯",
+          "通用"
+        ],
+        "companyStyle": [
+          "看可靠性与可控性"
+        ],
+        "interviewStage": [
+          "一面",
+          "二面"
+        ],
+        "frequency": "A",
+        "companySpecific": "no"
+      },
+      "similarQuestions": [
+        "xx 功能的 agent 怎么保证不跑偏？",
+        "刚刚提到的 agent 中上下文出错的问题，你们是如何解决的？",
+        "多 Agent 协作时，如何规避 Agent 之间信息污染、输出结论冲突、重复执行任务？",
+        "你的项目如何保证多轮对话的一致性、逻辑性，避免 AI 答非所问、前后矛盾？"
+      ],
+      "sources": [
+        {
+          "document": "ai_product2_integrated.xml",
+          "reference": "母题 22"
+        }
+      ],
+      "updatedAt": "2026-08-30",
+      "mainCategory": "技术原理与工程实现",
+      "businessCategories": [
+        "通用"
+      ],
+      "corePoints": [
+        "Agent / Workflow / 多智能体",
+        "性能、成本与稳定性"
+      ]
+    },
+    {
+      "id": "Q-0023",
+      "title": "Agent 或 AI 功能失败时，怎么做降级、兜底与体验补偿？",
+      "tags": {
+        "company": [
+          "字节跳动",
+          "腾讯",
+          "通用"
+        ],
+        "companyStyle": [
+          "务实",
+          "强调线上稳定性"
+        ],
+        "interviewStage": [
+          "二面",
+          "系统设计题"
+        ],
+        "frequency": "B",
+        "companySpecific": "partial"
+      },
+      "similarQuestions": [
+        "如何设计 AI 产品的失败兜底策略？回答超时、检索失败、模型报错如何做用户体验补偿？",
+        "弱网、离线、高延迟的企业内网环境中，Agent 产品如何设计降级、熔断兜底？",
+        "模型工具调用失败率可能影响用户体验，你会如何定义“可接受的失败率”？",
+        "并设计一套用户无感的降级或补救方案。"
+      ],
+      "sources": [
+        {
+          "document": "ai_product2_integrated.xml",
+          "reference": "母题 23"
+        }
+      ],
+      "updatedAt": "2026-08-30",
+      "mainCategory": "技术原理与工程实现",
+      "businessCategories": [
+        "通用"
+      ],
+      "corePoints": [
+        "性能、成本与稳定性"
+      ]
+    },
+    {
+      "id": "Q-0024",
+      "title": "企业级 Agent 的权限、安全、数据隔离怎么做？",
+      "tags": {
+        "company": [
+          "字节跳动",
+          "腾讯",
+          "百度",
+          "通用"
+        ],
+        "companyStyle": [
+          "ToB 落地",
+          "风险意识强"
+        ],
+        "interviewStage": [
+          "二面",
+          "业务面",
+          "系统设计题"
+        ],
+        "frequency": "B",
+        "companySpecific": "partial"
+      },
+      "similarQuestions": [
+        "多 Agent 项目中，你如何设计 Agent 的权限隔离、任务优先级、异常兜底机制？",
+        "你的项目如何做权限管理、数据隔离？企业级 AI 产品最核心的安全壁垒是什么？",
+        "你会如何处理信息异构与权限碎片化问题？",
+        "从个人项目落地视角，C 端 AI 产品和 B 端企业 AI 产品的设计逻辑最大差异是什么？"
+      ],
+      "sources": [
+        {
+          "document": "ai_product2_integrated.xml",
+          "reference": "母题 24"
+        }
+      ],
+      "updatedAt": "2026-08-30",
+      "mainCategory": "商业战略与安全治理",
+      "businessCategories": [
+        "办公"
+      ],
+      "corePoints": [
+        "安全、权限与合规"
+      ]
+    },
+    {
+      "id": "Q-0025",
+      "title": "你的 Prompt 经验是什么，如何通过提示词稳定提升效果？",
+      "tags": {
+        "company": [
+          "通用",
+          "字节跳动",
+          "腾讯"
+        ],
+        "companyStyle": [
+          "看 hands-on",
+          "看真实使用深度"
+        ],
+        "interviewStage": [
+          "一面",
+          "业务面"
+        ],
+        "frequency": "A",
+        "companySpecific": "no"
+      },
+      "similarQuestions": [
+        "prompt 具体是怎么调的？",
+        "介绍一下关于 Prompt Engineering 的经验。",
+        "平时写提示词会使用哪些策略？",
+        "有没有过写 Prompt 来优化模型结果的经历？",
+        "推理模型的 Prompt 和以往语言模型的 Prompt 有什么大的差别？"
+      ],
+      "sources": [
+        {
+          "document": "ai_product2_integrated.xml",
+          "reference": "母题 25"
+        }
+      ],
+      "updatedAt": "2026-08-30",
+      "mainCategory": "技术原理与工程实现",
+      "businessCategories": [
+        "通用"
+      ],
+      "corePoints": [
+        "模型、Prompt 与技术路线"
+      ]
+    },
+    {
+      "id": "Q-0026",
+      "title": "你平时怎么用 AI 工具、AI Coding 工具，工作流是什么？",
+      "tags": {
+        "company": [
+          "通用",
+          "美团",
+          "字节跳动",
+          "腾讯"
+        ],
+        "companyStyle": [
+          "看工具敏感度",
+          "看动手能力"
+        ],
+        "interviewStage": [
+          "一面",
+          "业务面"
+        ],
+        "frequency": "B",
+        "companySpecific": "partial"
+      },
+      "similarQuestions": [
+        "平时主要使用哪些 AI 开发工具？",
+        "讲一下自己 AI Coding 的经历。",
+        "你作为产品经理，用 AI 的具体工作流是怎么样的？",
+        "用过 Cursor、Claude Code 这类 AI 编程工具吗？使用场景和体验如何？"
+      ],
+      "sources": [
+        {
+          "document": "ai_product2_integrated.xml",
+          "reference": "母题 26"
+        }
+      ],
+      "updatedAt": "2026-08-30",
+      "mainCategory": "技术原理与工程实现",
+      "businessCategories": [
+        "AI Coding"
+      ],
+      "corePoints": [
+        "模型、Prompt 与技术路线"
+      ]
+    },
+    {
+      "id": "Q-0027",
+      "title": "不同模型或技术路线怎么选，为什么这么选？",
+      "tags": {
+        "company": [
+          "字节跳动",
+          "腾讯",
+          "百度",
+          "美团",
+          "通用"
+        ],
+        "companyStyle": [
+          "偏技术产品",
+          "要能讲清 trade-off"
+        ],
+        "interviewStage": [
+          "一面",
+          "二面"
+        ],
+        "frequency": "A",
+        "companySpecific": "no"
+      },
+      "similarQuestions": [
+        "用了哪些模型？为什么选择这些模型？",
+        "RAG 和 Fine-tune 怎么选？",
+        "接入或优化新模型时，你的评估和决策流程是怎样的？",
+        "做 AI 产品时，为什么选择自研模型、对接第三方模型，而不直接使用竞品成熟方案？"
+      ],
+      "sources": [
+        {
+          "document": "ai_product2_integrated.xml",
+          "reference": "母题 27"
+        }
+      ],
+      "updatedAt": "2026-08-30",
+      "mainCategory": "技术原理与工程实现",
+      "businessCategories": [
+        "通用"
+      ],
+      "corePoints": [
+        "模型、Prompt 与技术路线"
+      ]
+    },
+    {
+      "id": "Q-0028",
+      "title": "你如何理解主流大模型的差异、优劣和适配场景？",
+      "tags": {
+        "company": [
+          "字节跳动",
+          "腾讯",
+          "百度",
+          "美团",
+          "通用"
+        ],
+        "companyStyle": [
+          "行业理解",
+          "技术常识",
+          "产品抽象"
+        ],
+        "interviewStage": [
+          "一面",
+          "二面",
+          "三面"
+        ],
+        "frequency": "A",
+        "companySpecific": "no"
+      },
+      "similarQuestions": [
+        "你对主流大模型的优劣差异怎么看？",
+        "当前大模型不同方向的区别与联系，你怎么看？",
+        "你接触过哪些大语言模型？用过哪些 AI 基座模型？",
+        "DeepSeek 相比之前的 ChatGPT 普通版，好在哪里？"
+      ],
+      "sources": [
+        {
+          "document": "ai_product2_integrated.xml",
+          "reference": "母题 28"
+        }
+      ],
+      "updatedAt": "2026-08-30",
+      "mainCategory": "技术原理与工程实现",
+      "businessCategories": [
+        "通用"
+      ],
+      "corePoints": [
+        "模型、Prompt 与技术路线"
+      ]
+    },
+    {
+      "id": "Q-0029",
+      "title": "你如何向非技术团队解释 AI 方案、风险和限制？",
+      "tags": {
+        "company": [
+          "通用",
+          "腾讯"
+        ],
+        "companyStyle": [
+          "重沟通翻译能力"
+        ],
+        "interviewStage": [
+          "二面",
+          "主管面"
+        ],
+        "frequency": "C",
+        "companySpecific": "no"
+      },
+      "similarQuestions": [
+        "如何向业务、法务等非技术人员解释技术方案及其风险？",
+        "如果把一个辅助工具升级为能自主工作的 Agent，你会怎么设计？需要考虑哪些风险？",
+        "AI 功能出现恶意滥用风险，作为产品经理，从产品侧设计整套风险识别、拦截、处置流程。",
+        "你如何理解“数据闭环”对于 AI 产品迭代的重要性？"
+      ],
+      "sources": [
+        {
+          "document": "ai_product2_integrated.xml",
+          "reference": "母题 29"
+        }
+      ],
+      "updatedAt": "2026-08-30",
+      "mainCategory": "协作推进与面试通用",
+      "businessCategories": [
+        "通用"
+      ],
+      "corePoints": [
+        "跨团队协作与沟通"
+      ]
+    },
+    {
+      "id": "Q-0030",
+      "title": "如果让你从 0 到 1 做一个 AI 产品或功能，你怎么定义 MVP？",
+      "tags": {
+        "company": [
+          "腾讯",
+          "字节跳动",
+          "阿里",
+          "通用"
+        ],
+        "companyStyle": [
+          "看产品抽象力",
+          "边界感"
+        ],
+        "interviewStage": [
+          "二面",
+          "三面",
+          "设计题"
+        ],
+        "frequency": "A",
+        "companySpecific": "no"
+      },
+      "similarQuestions": [
+        "作为负责人，怎么样从 0 到 1 去定义 MVP 第一版产品？你做了什么、去掉了什么？为什么这么做？",
+        "如果让你基于企业微信，设计面向中小客户的轻量化 Agent 产品，你的 MVP 边界如何定义？",
+        "如果让你给某 AI 创作产品新增一个核心功能，你会做什么？",
+        "为“剪映”设计一个“AI 辅助进行影视解说创作”的功能。"
+      ],
+      "sources": [
+        {
+          "document": "ai_product2_integrated.xml",
+          "reference": "母题 30"
+        }
+      ],
+      "updatedAt": "2026-08-30",
+      "mainCategory": "产品设计与用户需求",
+      "businessCategories": [
+        "通用"
+      ],
+      "corePoints": [
+        "MVP、优先级与资源取舍"
+      ]
+    },
+    {
+      "id": "Q-0031",
+      "title": "用户留存下滑、满意度下降时，你怎么拆原因、定迭代策略？",
+      "tags": {
+        "company": [
+          "字节跳动",
+          "腾讯",
+          "阿里",
+          "通用"
+        ],
+        "companyStyle": [
+          "看增长与质量平衡"
+        ],
+        "interviewStage": [
+          "二面",
+          "三面"
+        ],
+        "frequency": "A",
+        "companySpecific": "no"
+      },
+      "similarQuestions": [
+        "如果 AI 产品用户留存持续走低，你会从哪些维度拆解原因？",
+        "假设 AI 助手的周留存率下滑了 10%，你将如何系统性拆解原因？",
+        "如果 DAU 增长了，但用户满意度下降了，你会怎么分析和处理？",
+        "实习项目的核心增长瓶颈是什么？如果继续迭代，下一版本的核心发力点是什么？"
+      ],
+      "sources": [
+        {
+          "document": "ai_product2_integrated.xml",
+          "reference": "母题 31"
+        }
+      ],
+      "updatedAt": "2026-08-30",
+      "mainCategory": "产品设计与用户需求",
+      "businessCategories": [
+        "通用"
+      ],
+      "corePoints": [
+        "增长、留存与商业化"
+      ]
+    },
+    {
+      "id": "Q-0032",
+      "title": "AI 产品怎么做商业化、付费设计与 ROI 判断？",
+      "tags": {
+        "company": [
+          "腾讯",
+          "阿里",
+          "字节跳动",
+          "米哈游",
+          "通用"
+        ],
+        "companyStyle": [
+          "更偏业务负责人思维"
+        ],
+        "interviewStage": [
+          "二面",
+          "三面",
+          "总监面"
+        ],
+        "frequency": "B",
+        "companySpecific": "partial"
+      },
+      "similarQuestions": [
+        "你如何看待 AI 产品的商业化？可以有哪些商业化路径，优先级如何排序？",
+        "为豆包设计一个高级付费版本，你会从哪些维度规划它的核心付费权益？",
+        "B 端 AI 产品客户说“效果不确定，不愿付费”怎么办？",
+        "在不影响竞技公平性的前提下，如何将 AI 设计为一项增值服务？"
+      ],
+      "sources": [
+        {
+          "document": "ai_product2_integrated.xml",
+          "reference": "母题 32"
+        }
+      ],
+      "updatedAt": "2026-08-30",
+      "mainCategory": "商业战略与安全治理",
+      "businessCategories": [
+        "通用"
+      ],
+      "corePoints": [
+        "增长、留存与商业化"
+      ]
+    },
+    {
+      "id": "Q-0033",
+      "title": "你怎么看 AI 行业趋势，以及这些趋势对产品岗位的影响？",
+      "tags": {
+        "company": [
+          "通用",
+          "字节跳动",
+          "阿里"
+        ],
+        "companyStyle": [
+          "看上限",
+          "看行业敏感度"
+        ],
+        "interviewStage": [
+          "三面",
+          "总监面",
+          "HR 面"
+        ],
+        "frequency": "A",
+        "companySpecific": "no"
+      },
+      "similarQuestions": [
+        "你觉得未来几年 AI 产品领域有哪些比较重要的趋势？",
+        "你有关注最近 AI 行业的前沿趋势吗？例如多模态、Agent、出海。",
+        "近期哪个 AI 技术进展让你兴奋，并且让你思考过产品化？",
+        "AI 大模型对产品经理岗位带来了哪些变化？"
+      ],
+      "sources": [
+        {
+          "document": "ai_product2_integrated.xml",
+          "reference": "母题 33"
+        }
+      ],
+      "updatedAt": "2026-08-30",
+      "mainCategory": "商业战略与安全治理",
+      "businessCategories": [
+        "通用"
+      ],
+      "corePoints": [
+        "行业、竞品与公司战略"
+      ]
+    },
+    {
+      "id": "Q-0034",
+      "title": "你平时体验哪些 AI 产品？如何做竞品分析与差异判断？",
+      "tags": {
+        "company": [
+          "字节跳动",
+          "阿里",
+          "腾讯",
+          "美图",
+          "通用"
+        ],
+        "companyStyle": [
+          "重产品 sense",
+          "重使用深度"
+        ],
+        "interviewStage": [
+          "一面",
+          "二面",
+          "三面"
+        ],
+        "frequency": "A",
+        "companySpecific": "no"
+      },
+      "similarQuestions": [
+        "你平时体验哪些 AI 产品？挑一个你认为设计上有亮点的，分析其交互逻辑背后的产品思维。",
+        "你平时常用的 AI 对话 / AI 创作产品有哪些？选 2 个说说它们的优缺点。",
+        "腾讯元宝与豆包核心差异在哪里？",
+        "OpenClaw 相比 ChatGPT 或其他对话式 bot 的差别是什么？"
+      ],
+      "sources": [
+        {
+          "document": "ai_product2_integrated.xml",
+          "reference": "母题 34"
+        }
+      ],
+      "updatedAt": "2026-08-30",
+      "mainCategory": "商业战略与安全治理",
+      "businessCategories": [
+        "通用"
+      ],
+      "corePoints": [
+        "行业、竞品与公司战略"
+      ]
+    },
+    {
+      "id": "Q-0035",
+      "title": "字节方向：AI 功能如何嵌入高频内容产品并形成差异化？",
+      "tags": {
+        "company": [
+          "字节跳动"
+        ],
+        "companyStyle": [
+          "强调高频场景",
+          "数据闭环",
+          "强产品化"
+        ],
+        "interviewStage": [
+          "业务面",
+          "三面",
+          "终面"
+        ],
+        "frequency": "A",
+        "companySpecific": "yes"
+      },
+      "similarQuestions": [
+        "如果我们想在字节的某个主要产品中深度集成一个 AI 功能，你需要和技术同学厘清哪些关键问题？",
+        "你认为字节的 AI 产品相比其他竞争对手，最应该建立的差异化优势是什么？",
+        "你实习项目和字节现有 AI 产品赛道重合度很高，你认为你的差异化认知在哪里？",
+        "豆包内“智能推荐智能体”的产品方案你会怎么构思？"
+      ],
+      "sources": [
+        {
+          "document": "ai_product2_integrated.xml",
+          "reference": "母题 35"
+        }
+      ],
+      "updatedAt": "2026-08-30",
+      "mainCategory": "产品设计与用户需求",
+      "businessCategories": [
+        "内容创作"
+      ],
+      "corePoints": [
+        "产品定位、差异化与方案设计"
+      ]
+    },
+    {
+      "id": "Q-0036",
+      "title": "腾讯方向：企业 Agent 或助手产品该怎么找场景、算 ROI、做组织适配？",
+      "tags": {
+        "company": [
+          "腾讯"
+        ],
+        "companyStyle": [
+          "ROI 导向",
+          "企业场景",
+          "系统化思考"
+        ],
+        "interviewStage": [
+          "二面",
+          "三面",
+          "终面"
+        ],
+        "frequency": "A",
+        "companySpecific": "yes"
+      },
+      "similarQuestions": [
+        "腾讯布局企业 Agent 赛道，相比其他大厂，你认为最大机会点与现实阻碍是什么？",
+        "如果交给你从零搭建腾讯内部员工 AI 助手，你的完整产品规划、核心北极星指标是什么？",
+        "混元与腾讯超级应用矩阵，对比 OpenAI 底座路线，ToB 业务层面的优劣势与产品机会点是什么？",
+        "AI 功能应该做成独立 App，还是嵌入微信 / QQ 作为功能插件？"
+      ],
+      "sources": [
+        {
+          "document": "ai_product2_integrated.xml",
+          "reference": "母题 36"
+        }
+      ],
+      "updatedAt": "2026-08-30",
+      "mainCategory": "商业战略与安全治理",
+      "businessCategories": [
+        "办公"
+      ],
+      "corePoints": [
+        "增长、留存与商业化",
+        "行业、竞品与公司战略"
+      ]
+    },
+    {
+      "id": "Q-0037",
+      "title": "阿里方向：AI 创作产品如何做 C 端定位、增长与生态突围？",
+      "tags": {
+        "company": [
+          "阿里"
+        ],
+        "companyStyle": [
+          "业务战略 + C 端创作 + 商业化"
+        ],
+        "interviewStage": [
+          "一面",
+          "二面",
+          "主管面"
+        ],
+        "frequency": "A",
+        "companySpecific": "yes"
+      },
+      "similarQuestions": [
+        "你怎么看当前 AI 大模型在 C 端的落地现状？你觉得千问在 C 端 AI 创作赛道，最大的竞争优势和短板分别是什么？",
+        "你如何理解千问 AI 产品的整体业务战略？AI 创作方向在生态中承担什么角色？",
+        "目前各家都在做大模型 C 端产品，你认为千问想要突围，核心要做好哪几件事？",
+        "很多用户反馈 AI 生成内容“有 AI 感、不真实”，如果让你解决这个问题，你会从产品层面做哪些优化？"
+      ],
+      "sources": [
+        {
+          "document": "ai_product2_integrated.xml",
+          "reference": "母题 37"
+        }
+      ],
+      "updatedAt": "2026-08-30",
+      "mainCategory": "产品设计与用户需求",
+      "businessCategories": [
+        "内容创作"
+      ],
+      "corePoints": [
+        "产品定位、差异化与方案设计",
+        "增长、留存与商业化"
+      ]
+    },
+    {
+      "id": "Q-0038",
+      "title": "百度方向：企业知识库或 RAG 产品如何做稳定、准确、生产化？",
+      "tags": {
+        "company": [
+          "百度"
+        ],
+        "companyStyle": [
+          "RAG 重",
+          "评测重",
+          "企业知识库重"
+        ],
+        "interviewStage": [
+          "一面",
+          "业务面"
+        ],
+        "frequency": "A",
+        "companySpecific": "yes"
+      },
+      "similarQuestions": [
+        "百度千帆 RAG 产品的核心优势和产品短板是什么？如果让你迭代，你优先优化哪三个点？",
+        "用户提问模糊、信息缺失时，产品设计是主动追问还是直接检索作答？",
+        "面对千万级文档体量的企业知识库，如何从产品层面保证检索稳定、速度可控、效果不衰减？",
+        "你如何设计 Query 优化的产品能力？"
+      ],
+      "sources": [
+        {
+          "document": "ai_product2_integrated.xml",
+          "reference": "母题 38"
+        }
+      ],
+      "updatedAt": "2026-08-30",
+      "mainCategory": "技术原理与工程实现",
+      "businessCategories": [
+        "搜索",
+        "办公"
+      ],
+      "corePoints": [
+        "RAG / 搜索 / 知识库",
+        "性能、成本与稳定性"
+      ]
+    },
+    {
+      "id": "Q-0039",
+      "title": "美团方向：AI 如何服务交易与履约场景，而不只是聊天助手？",
+      "tags": {
+        "company": [
+          "美团"
+        ],
+        "companyStyle": [
+          "务实",
+          "业务价值导向",
+          "看场景落地"
+        ],
+        "interviewStage": [
+          "一面",
+          "业务面"
+        ],
+        "frequency": "B",
+        "companySpecific": "yes"
+      },
+      "similarQuestions": [
+        "美团最有价值的 AI 应用场景是什么？为什么？",
+        "AI 如何优化配送路径？你怎么设计实验验证？",
+        "如何用 AI 挖掘用户评价数据的价值？",
+        "用过美团自研模型吗？什么感受？"
+      ],
+      "sources": [
+        {
+          "document": "ai_product2_integrated.xml",
+          "reference": "母题 39"
+        }
+      ],
+      "updatedAt": "2026-08-30",
+      "mainCategory": "产品设计与用户需求",
+      "businessCategories": [
+        "电商"
+      ],
+      "corePoints": [
+        "用户洞察与需求判断",
+        "产品定位、差异化与方案设计"
+      ]
+    },
+    {
+      "id": "Q-0040",
+      "title": "小红书方向：AI 在内容生态中到底创造什么价值，边界在哪里？",
+      "tags": {
+        "company": [
+          "小红书"
+        ],
+        "companyStyle": [
+          "重内容生态",
+          "用户价值",
+          "平台定位"
+        ],
+        "interviewStage": [
+          "二面",
+          "三面",
+          "总监面"
+        ],
+        "frequency": "A",
+        "companySpecific": "yes"
+      },
+      "similarQuestions": [
+        "从用户视角出发，为什么会愿意使用小红书的 AI 生成功能？核心驱动力是什么？",
+        "对于小红书 KOL 而言，使用 AI 功能的收益点在哪里？",
+        "小红书做独立 AI 功能，而不是嵌入现有流程，它的意义是什么？与行业内其他产品的差异性在哪里？",
+        "你认为小红书 AI 业务的核心定位是做内容生态，还是做服务工具？为什么？"
+      ],
+      "sources": [
+        {
+          "document": "ai_product2_integrated.xml",
+          "reference": "母题 40"
+        }
+      ],
+      "updatedAt": "2026-08-30",
+      "mainCategory": "产品设计与用户需求",
+      "businessCategories": [
+        "内容创作"
+      ],
+      "corePoints": [
+        "产品定位、差异化与方案设计"
+      ]
+    },
+    {
+      "id": "Q-0041",
+      "title": "米哈游方向：AI 如何增强游戏体验、内容生产与社区生态？",
+      "tags": {
+        "company": [
+          "米哈游"
+        ],
+        "companyStyle": [
+          "体验导向",
+          "创意场景题",
+          "重玩法想象"
+        ],
+        "interviewStage": [
+          "业务面",
+          "场景设计面"
+        ],
+        "frequency": "B",
+        "companySpecific": "yes"
+      },
+      "similarQuestions": [
+        "假设要为米哈游的一款新游戏设计一个以“AI NPC”为核心的玩法，你的核心设计理念是什么？",
+        "“AI 动态关卡”或“AI 自适配难度”是前沿方向。请构思一个具体应用场景。",
+        "AIGC 可大幅加速美术、音频、文案资产的生产。你认为在哪个环节边际收益最高？",
+        "面对开放世界内容消耗快于生产速度的挑战，AI 能否在生成可玩的动态内容上发挥作用？"
+      ],
+      "sources": [
+        {
+          "document": "ai_product2_integrated.xml",
+          "reference": "母题 41"
+        }
+      ],
+      "updatedAt": "2026-08-30",
+      "mainCategory": "产品设计与用户需求",
+      "businessCategories": [
+        "游戏"
+      ],
+      "corePoints": [
+        "产品定位、差异化与方案设计"
+      ]
+    },
+    {
+      "id": "Q-0042",
+      "title": "美图方向：AIGC 修图或写真产品如何做差异化与体验优化？",
+      "tags": {
+        "company": [
+          "美图"
+        ],
+        "companyStyle": [
+          "偏具体产品体验",
+          "竞品试用",
+          "模块优化"
+        ],
+        "interviewStage": [
+          "业务面"
+        ],
+        "frequency": "C",
+        "companySpecific": "yes"
+      },
+      "similarQuestions": [
+        "整套方案相对于其他产品来说，和竞品相比有哪些亮点？",
+        "对于美图云修这款产品你熟悉吗？",
+        "如果让你来做这里面的一个功能模块，你会选择哪个模块？你发现这个模块有哪些问题，会怎么改？",
+        "像素蛋糕用下来你觉得怎么样？"
+      ],
+      "sources": [
+        {
+          "document": "ai_product2_integrated.xml",
+          "reference": "母题 42"
+        }
+      ],
+      "updatedAt": "2026-08-30",
+      "mainCategory": "产品设计与用户需求",
+      "businessCategories": [
+        "内容创作"
+      ],
+      "corePoints": [
+        "产品定位、差异化与方案设计"
+      ]
+    },
+    {
+      "id": "Q-0043",
+      "title": "为什么选择 AI 产品经理，而不是其他岗位或方向？",
+      "tags": {
+        "company": [
+          "通用",
+          "美团",
+          "百度",
+          "阿里",
+          "腾讯"
+        ],
+        "companyStyle": [
+          "看动机真实性",
+          "长期性"
+        ],
+        "interviewStage": [
+          "一面",
+          "HR 面"
+        ],
+        "frequency": "S",
+        "companySpecific": "no"
+      },
+      "similarQuestions": [
+        "为什么转行 AI 产品经理？",
+        "为什么想做 AI 产品经理？",
+        "为什么不考虑做算法开发，而选择做产品？",
+        "你觉得 AI 产品经理和传统产品经理最大的区别是什么？"
+      ],
+      "sources": [
+        {
+          "document": "ai_product2_integrated.xml",
+          "reference": "母题 43"
+        }
+      ],
+      "updatedAt": "2026-08-30",
+      "mainCategory": "个人与职业匹配",
+      "businessCategories": [
+        "通用"
+      ],
+      "corePoints": [
+        "求职动机与岗位匹配"
+      ]
+    },
+    {
+      "id": "Q-0044",
+      "title": "你的职业规划是什么，为什么想去这家公司或这个方向？",
+      "tags": {
+        "company": [
+          "通用",
+          "腾讯",
+          "阿里",
+          "字节跳动",
+          "美团"
+        ],
+        "companyStyle": [
+          "看稳定性",
+          "公司认知",
+          "方向匹配"
+        ],
+        "interviewStage": [
+          "三面",
+          "HR 面",
+          "总监面"
+        ],
+        "frequency": "A",
+        "companySpecific": "no"
+      },
+      "similarQuestions": [
+        "你未来 3 年的职业规划是什么？",
+        "为什么想投这个 AI 产品岗位？",
+        "说一下为什么选择腾讯，尤其是在 AI 浪潮下腾讯的优势是什么？",
+        "为什么选择美团的 AI 产品经理岗位？"
+      ],
+      "sources": [
+        {
+          "document": "ai_product2_integrated.xml",
+          "reference": "母题 44"
+        }
+      ],
+      "updatedAt": "2026-08-30",
+      "mainCategory": "个人与职业匹配",
+      "businessCategories": [
+        "通用"
+      ],
+      "corePoints": [
+        "求职动机与岗位匹配",
+        "职业规划与稳定性"
+      ]
+    },
+    {
+      "id": "Q-0045",
+      "title": "你的学习方法、AI 信息获取方式和自我迭代机制是什么？",
+      "tags": {
+        "company": [
+          "通用",
+          "字节跳动",
+          "美团"
+        ],
+        "companyStyle": [
+          "看自驱力",
+          "成长潜力"
+        ],
+        "interviewStage": [
+          "三面",
+          "HR 面",
+          "业务面"
+        ],
+        "frequency": "B",
+        "companySpecific": "no"
+      },
+      "similarQuestions": [
+        "你通过什么方法学习 AI 技术？",
+        "你日常如何主动积累 AI 知识？",
+        "过去一年读过哪些 AI 论文或技术报告？哪篇读过两次以上？",
+        "最近有没有获取到什么 AI 相关的新资讯？平时从哪些渠道获取？"
+      ],
+      "sources": [
+        {
+          "document": "ai_product2_integrated.xml",
+          "reference": "母题 45"
+        }
+      ],
+      "updatedAt": "2026-08-30",
+      "mainCategory": "个人与职业匹配",
+      "businessCategories": [
+        "通用"
+      ],
+      "corePoints": [
+        "学习能力与自我迭代"
+      ]
+    }
+  ]
+}
